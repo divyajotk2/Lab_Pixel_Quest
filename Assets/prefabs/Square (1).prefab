@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 6104818954397599714}
   - component: {fileID: 8188266707823041448}
   m_Layer: 0
-  m_Name: Square
+  m_Name: Square (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26,13 +26,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7449504581386049532}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0.2112558, w: 0.9774309}
-  m_LocalPosition: {x: -2.98, y: -0.21, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: 0.18891911, w: 0.98199266}
+  m_LocalPosition: {x: 1.89, y: -1.9, z: 0}
   m_LocalScale: {x: 7.175, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -24.392}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 21.779}
 --- !u!212 &6104818954397599714
 SpriteRenderer:
   m_ObjectHideFlags: 0
